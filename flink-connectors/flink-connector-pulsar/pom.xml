@@ -29,7 +29,7 @@ under the License.
 		<version>1.16.0</version>
 	</parent>
 
-	<artifactId>flink-connector-pulsar</artifactId>
+	<artifactId>flink-connector-pulsar-noc</artifactId>
 	<name>Flink : Connectors : Pulsar</name>
 
 	<packaging>jar</packaging>
